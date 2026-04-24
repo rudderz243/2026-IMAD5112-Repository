@@ -23,7 +23,7 @@ Folders ending in **G1** belong to Group 1, and **G2** to Group 2. The code and 
 | 2026-04-02 | Adding Example | Loops | [For Loop](https://www.w3schools.com/kotlin/kotlin_for_loop.php) · [While Loop](https://www.w3schools.com/kotlin/kotlin_while_loop.php) |
 | 2026-04-08 | Loop Recap | Loops | [Break & Continue](https://www.w3schools.com/kotlin/kotlin_break_continue.php) · [Arrays](https://www.w3schools.com/kotlin/kotlin_arrays.php) |
 | 2026-04-10 | First Screens | Multiple Screens | |
-| 2026-04-13 | Screens and Loops | Screens, Passing Data |·[For Loop](https://www.w3schools.com/kotlin/kotlin_for_loop.php) |
+| 2026-04-13 | Screens and Loops | Screens, Passing Data | [For Loop](https://www.w3schools.com/kotlin/kotlin_for_loop.php) |
 | 2026-04-20 | Math Test | 3 Screens, Assignment Recap | [If...Else](https://www.w3schools.com/kotlin/kotlin_conditions.php) |
 
 ---
