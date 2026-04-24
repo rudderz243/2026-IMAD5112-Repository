@@ -1,24 +1,24 @@
-# Parking Calculator
+# Adding Example
 
 ## Overview
 
-An Android app that calculates a parking fee based on the number of hours entered by the user. This project introduces more advanced conditional logic using both `if-else` and `when` expressions in Kotlin, and also marks the introduction of version control with GitHub.
+An Android app that demonstrates the use of loops to accumulate a total. The user inputs a series of numbers and the app adds them together using a loop, reinforcing the concept of iterative computation in Kotlin.
 
 ## Opening the Project in Android Studio
 
 1. Clone or download this repository to your local machine.
 2. Open Android Studio.
 3. Select **File > Open** from the menu bar.
-4. Navigate to the `ParkingCalculatorG2` folder and click **OK**.
+4. Navigate to the `AddingExampleG1` folder and click **OK**.
 5. Wait for Gradle to sync — this may take a few minutes on first open.
 6. Once synced, you can run the app on an emulator or connected device using the **Run** button.
 
 ## Concepts Covered
 
-- [Kotlin If...Else](https://www.w3schools.com/kotlin/kotlin_conditions.php)
-- [Kotlin When](https://www.w3schools.com/kotlin/kotlin_when.php)
+- [Kotlin For Loop](https://www.w3schools.com/kotlin/kotlin_for_loop.php)
+- [Kotlin While Loop](https://www.w3schools.com/kotlin/kotlin_while_loop.php)
+- [Kotlin Variables](https://www.w3schools.com/kotlin/kotlin_variables.php)
 - [Kotlin Operators](https://www.w3schools.com/kotlin/kotlin_operators.php)
-- [Kotlin User Input](https://www.w3schools.com/kotlin/kotlin_user_input.php)
 
 ## License
 

@@ -1,41 +1,25 @@
 # Parking Calculator
 
-## Purpose
+## Overview
 
-This app exists because the assignment says it should.
+An Android app that calculates a parking fee based on the number of hours entered by the user. This project introduces more advanced conditional logic using both `if-else` and `when` expressions in Kotlin, and also marks the introduction of version control with GitHub.
 
-## Design Considerations
+## Opening the Project in Android Studio
 
-Hello I am a design consideration.
+1. Clone or download this repository to your local machine.
+2. Open Android Studio.
+3. Select **File > Open** from the menu bar.
+4. Navigate to the `ParkingCalculatorG1` folder and click **OK**.
+5. Wait for Gradle to sync — this may take a few minutes on first open.
+6. Once synced, you can run the app on an emulator or connected device using the **Run** button.
 
-## GitHub
+## Concepts Covered
 
-I used GitHub to store my files remotely and keep track of my changes.
+- [Kotlin If...Else](https://www.w3schools.com/kotlin/kotlin_conditions.php)
+- [Kotlin When](https://www.w3schools.com/kotlin/kotlin_when.php)
+- [Kotlin Operators](https://www.w3schools.com/kotlin/kotlin_operators.php)
+- [Kotlin User Input](https://www.w3schools.com/kotlin/kotlin_user_input.php)
 
-## GitHub Actions
+## License
 
-I used GitHub Actions to make sure that my code compiles correctly.
-
-## Screenshots
-
-### App Accepting Valid Input
-
-(image goes here)
-
-### App Accepting Invalid Input
-
-(image goes here)
-
-### App Accepting Blank Input
-
-(image goes here)
-
-## Links
-
-### YouTube Link
-
-(link goes here)
-
-### GitHub Link
-
-https://github.com/EMECPE/imad5112-g1-2026-ice-task1-rudderz243.git
+This project is licensed under the **PolyForm Noncommercial License 1.0.0**. You are free to use, modify, and distribute this software for any noncommercial purpose, including personal study, educational use, and research. Commercial use is strictly prohibited. See the [LICENSE.md](LICENSE.md) file for full details.
