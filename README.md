@@ -2,7 +2,9 @@
 
 ## Summary
 
-This repository contains all the Android projects completed together in class. Each project is available for both groups — folders ending in **G1** belong to Group 1, and **G2** to Group 2. The code and concepts covered are the same for both groups.
+This repository contains all the Android projects completed together in class. Each project is available for both groups.
+
+Folders ending in **G1** belong to Group 1, and **G2** to Group 2. The code and concepts covered are the same for both groups.
 
 ---
 
@@ -20,9 +22,9 @@ This repository contains all the Android projects completed together in class. E
 | 2026-03-31 | Times Table | Loops (For, While) | [For Loop](https://www.w3schools.com/kotlin/kotlin_for_loop.php) · [While Loop](https://www.w3schools.com/kotlin/kotlin_while_loop.php) |
 | 2026-04-02 | Adding Example | Loops | [For Loop](https://www.w3schools.com/kotlin/kotlin_for_loop.php) · [While Loop](https://www.w3schools.com/kotlin/kotlin_while_loop.php) |
 | 2026-04-08 | Loop Recap | Loops | [Break & Continue](https://www.w3schools.com/kotlin/kotlin_break_continue.php) · [Arrays](https://www.w3schools.com/kotlin/kotlin_arrays.php) |
-| 2026-04-10 | First Screens | Multiple Screens | [Functions](https://www.w3schools.com/kotlin/kotlin_functions.php) · [Classes](https://www.w3schools.com/kotlin/kotlin_classes.php) |
-| 2026-04-13 | Screens and Loops | Screens, Passing Data | [Functions](https://www.w3schools.com/kotlin/kotlin_functions.php) · [For Loop](https://www.w3schools.com/kotlin/kotlin_for_loop.php) |
-| 2026-04-20 | Math Test | 3 Screens, Assignment Recap | [If...Else](https://www.w3schools.com/kotlin/kotlin_conditions.php) · [Classes](https://www.w3schools.com/kotlin/kotlin_classes.php) |
+| 2026-04-10 | First Screens | Multiple Screens | |
+| 2026-04-13 | Screens and Loops | Screens, Passing Data |·[For Loop](https://www.w3schools.com/kotlin/kotlin_for_loop.php) |
+| 2026-04-20 | Math Test | 3 Screens, Assignment Recap | [If...Else](https://www.w3schools.com/kotlin/kotlin_conditions.php) |
 
 ---
 
