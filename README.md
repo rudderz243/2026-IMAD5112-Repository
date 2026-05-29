@@ -25,6 +25,9 @@ Folders ending in **G1** belong to Group 1, and **G2** to Group 2. The code and 
 | 2026-04-10 | First Screens | Multiple Screens | |
 | 2026-04-13 | Screens and Loops | Screens, Passing Data | [For Loop](https://www.w3schools.com/kotlin/kotlin_for_loop.php) |
 | 2026-04-20 | Math Test | 3 Screens, Assignment Recap | [If...Else](https://www.w3schools.com/kotlin/kotlin_conditions.php) |
+| 2026-05-15 | More Arrays | Arrays, Indexing, and Search | [Arrays](https://www.w3schools.com/kotlin/kotlin_arrays.php) · [For Loop](https://www.w3schools.com/kotlin/kotlin_for_loop.php) |
+| 2026-05-20 | Recap 1 | Multi-screen navigation, passing arrays | [For Loop](https://www.w3schools.com/kotlin/kotlin_for_loop.php) · [Arrays](https://www.w3schools.com/kotlin/kotlin_arrays.php) |
+| 2026-05-29 | Recap 2 | Functions, min/max calculations, averages | [Functions](https://www.w3schools.com/kotlin/kotlin_functions.php) · [For Loop](https://www.w3schools.com/kotlin/kotlin_for_loop.php) · [Arrays](https://www.w3schools.com/kotlin/kotlin_arrays.php) |
 
 ---
 

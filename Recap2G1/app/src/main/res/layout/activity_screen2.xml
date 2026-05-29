@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Screen2">
+
+    <TextView
+        android:id="@+id/lblHeadingS2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Enter the Marks..."
+        android:textSize="34sp"
+        android:textStyle="italic"
+        tools:layout_editor_absoluteX="77dp"
+        tools:layout_editor_absoluteY="55dp" />
+
+    <TextView
+        android:id="@+id/lblStudentNumberS2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Student Number"
+        tools:layout_editor_absoluteX="67dp"
+        tools:layout_editor_absoluteY="130dp" />
+
+    <EditText
+        android:id="@+id/txtStudentNumberS2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="Student Number"
+        android:inputType="text"
+        tools:layout_editor_absoluteX="67dp"
+        tools:layout_editor_absoluteY="177dp" />
+
+    <TextView
+        android:id="@+id/lblFInalMarkS2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Final Mark"
+        tools:layout_editor_absoluteX="70dp"
+        tools:layout_editor_absoluteY="293dp" />
+
+    <EditText
+        android:id="@+id/txtFinalMarkS2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="numberDecimal"
+        tools:layout_editor_absoluteX="67dp"
+        tools:layout_editor_absoluteY="343dp" />
+
+    <TextView
+        android:id="@+id/lblOutputS2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Messages go here"
+        tools:layout_editor_absoluteX="148dp"
+        tools:layout_editor_absoluteY="467dp" />
+
+    <Button
+        android:id="@+id/btnAddS2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:backgroundTint="#4CAF50"
+        android:text="Add Mark Entry"
+        tools:layout_editor_absoluteX="132dp"
+        tools:layout_editor_absoluteY="535dp" />
+
+    <Button
+        android:id="@+id/btnDoneS2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:backgroundTint="#2196F3"
+        android:text="Done Adding"
+        tools:layout_editor_absoluteX="140dp"
+        tools:layout_editor_absoluteY="583dp" />
+</androidx.constraintlayout.widget.ConstraintLayout>

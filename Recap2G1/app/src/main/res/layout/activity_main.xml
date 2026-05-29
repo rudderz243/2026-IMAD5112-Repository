@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/lblHeadingS1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Class Average Calculator"
+        android:textSize="34sp"
+        android:textStyle="italic"
+        tools:layout_editor_absoluteX="22dp"
+        tools:layout_editor_absoluteY="46dp" />
+
+    <TextView
+        android:id="@+id/lblGreetingS1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="This app will calculate the average\nmark for a class of students."
+        android:textAlignment="center"
+        android:textSize="24sp"
+        tools:layout_editor_absoluteX="23dp"
+        tools:layout_editor_absoluteY="204dp" />
+
+    <Button
+        android:id="@+id/btnStartS1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:backgroundTint="#4CAF50"
+        android:text="Start App"
+        tools:layout_editor_absoluteX="151dp"
+        tools:layout_editor_absoluteY="361dp" />
+
+    <Button
+        android:id="@+id/btnCloseS1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:backgroundTint="#F44336"
+        android:text="Close App"
+        tools:layout_editor_absoluteX="149dp"
+        tools:layout_editor_absoluteY="437dp" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

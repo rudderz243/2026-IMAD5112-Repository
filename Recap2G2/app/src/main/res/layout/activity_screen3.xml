@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Screen3">
+
+    <TextView
+        android:id="@+id/lblHeadingS3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="54dp"
+        android:text="Mark Information"
+        android:textSize="34sp"
+        android:textStyle="italic"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/lblOutputS3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="97dp"
+        android:text="Output goes here"
+        android:textSize="24sp"
+        app:layout_constraintBottom_toTopOf="@+id/btnAllS3"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <Button
+        android:id="@+id/btnAllS3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="20dp"
+        android:layout_marginBottom="11dp"
+        android:backgroundTint="#2196F3"
+        android:text="View All Students"
+        app:layout_constraintBottom_toTopOf="@+id/btnAverageS3"
+        app:layout_constraintStart_toStartOf="@+id/btnAverageS3" />
+
+    <Button
+        android:id="@+id/btnAverageS3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="4dp"
+        android:layout_marginBottom="9dp"
+        android:backgroundTint="#2196F3"
+        android:text="Calculate Average Mark"
+        app:layout_constraintBottom_toTopOf="@+id/btnMaxMinS3"
+        app:layout_constraintStart_toStartOf="@+id/btnMaxMinS3" />
+
+    <Button
+        android:id="@+id/btnMaxMinS3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="61dp"
+        android:backgroundTint="#2196F3"
+        android:text="View Highest and Lowest"
+        app:layout_constraintBottom_toTopOf="@+id/btnCloseS3"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <Button
+        android:id="@+id/btnCloseS3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="79dp"
+        android:backgroundTint="#F44336"
+        android:text="Close"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+</androidx.constraintlayout.widget.ConstraintLayout>
